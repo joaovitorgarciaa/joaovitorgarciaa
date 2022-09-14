@@ -12,7 +12,11 @@ My interests are:
 • Projects 📖
 • Success 💻
 
-___________________________________________
+🌱 I'm currently updating Front-end, focusing on the future, learning typescript.
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="60" height="60"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="60" height="60"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="60" height="60"/>
+__________________________________________________________________________________________________
+
 
 👋 Olá! Bem vindo ao meu perfil do Github.
 Meu nome é João Vitor, e meu sobrenome é "Garcia"!
@@ -31,6 +35,19 @@ Meus interesses são:
 🌱 Atualmente estou aprendendo Front-end, focando no futuro, a aprendizagem em typescript.
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="60" height="60"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="60" height="60"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="60" height="60"/>
+
+____________________________________________________________________________________________________
+
+GRAPHIC OF LANGUAGES USED
+GRÁFICO DE LÍNGUAGEMS USADAS
+
+<div>
+<a href="https://github.com/seu-usuário-aqui">
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=seu-usuário-aqui&layout=compact&langs_count=7&theme=dracula"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=seu-usuário-aqui&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+</div>
+
+
 
 
           
