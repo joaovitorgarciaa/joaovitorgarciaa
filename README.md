@@ -1,18 +1,18 @@
-👋 <h2>Hello! Welcome to my Github profile.</h2>
-My name is João Vitor and my nickname is "Garcia"!
+<h2>👋 Hello! Welcome to my Github profile.</h2>
+<h3>My name is João Vitor and my nickname is "Garcia"!</h3>
 
-🏠 I live in Portugal and I am currently 19 years old.
+<h4>🏠 I live in Portugal and I am currently 19 years old.</h4>
 
-I've been studying programming for a short time, mainly studying the front-end, with little experience in JavaScript.
-English level: Intermediate. 
+<h4>I've been studying programming for a short time, mainly studying the front-end, with little experience in JavaScript.</h4>
+<h3>English level: Intermediate. </h3>
 
-My interests are:
+<h4>My interests are:</h4>
 
-• Future ⏲
-• Projects 📖
-• Success 💻
+<h4>• Future ⏲</h4>
+<h4>• Projects 📖</h4>
+<h4>• Success 💻</h4>
 
-🌱 I'm currently updating Front-end, focusing on the future, learning typescript.
+<h2>🌱 I'm currently updating Front-end, focusing on the future, learning typescript.</h2>
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="60" height="60"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="60" height="60"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="60" height="60"/>
 __________________________________________________________________________________________________
@@ -38,8 +38,8 @@ Meus interesses são:
 
 ____________________________________________________________________________________________________
 
-GRAPHIC OF LANGUAGES USED<br>
-GRÁFICO DE LÍNGUAGEMS USADAS
+<h1>GRAPHIC OF LANGUAGES USED</h1><br>
+<h1>GRÁFICO DE LÍNGUAGEMS USADAS</h1>
 
 <div>
 <a href="https://github.com/joaovitorgarciaa">
