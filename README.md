@@ -1,5 +1,5 @@
-👋 
-Hello, my name is João Vitor!
+👋 Hello! Welcome to my Github profile.
+My name is João Vitor and my nickname is "Garcia"!
 
 🏠 I live in Portugal and I am currently 19 years old.
 
@@ -14,8 +14,8 @@ My interests are:
 
 ___________________________________________
 
-👋
-Olá, meu nome é João Vitor!
+👋 Olá! Bem vindo ao meu perfil do Github.
+Meu nome é João Vitor, e meu sobrenome é "Garcia"!
 
 🏠 Moro em Portugal e atualmente tenho 19 anos.
 
@@ -27,3 +27,11 @@ Meus interesses são:
 • Futuro ⏲
 • Projetos 📖
 • Sucesso 💻
+
+🌱 Atualmente estou aprendendo Front-end, focando no futuro, a aprendizagem em typescript.
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" /> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+          
+          
