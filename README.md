@@ -1,16 +1,30 @@
-### Hi there 👋
+👋 
+Hello, my name is João Vitor!
 
-<!--
-**joaovitorgarciaa/joaovitorgarciaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🏠 I live in Portugal and I am currently 19 years old.
 
-Here are some ideas to get you started:
+I've been studying programming for a short time, mainly studying the front-end, with little experience in JavaScript.
+English level: Intermediate. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+My interests are:
+
+• Future ⏲
+• Projects 📖
+• Success 💻
+
+___________________________________________
+
+👋
+Olá, meu nome é João Vitor!
+
+🏠 Moro em Portugal e atualmente tenho 19 anos.
+
+Estou estudando programação há pouco tempo, estudando principalmente o front-end, com pouca experiência em JavaScript.
+Nível de inglês: Intermediário.
+
+Meus interesses são:
+
+• Futuro ⏲
+• Projetos 📖
+• Sucesso 💻
+
