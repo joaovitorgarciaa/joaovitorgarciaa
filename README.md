@@ -8,9 +8,19 @@
 
 <h4>My interests are:</h4>
 
-<h4>• Future ⏲</h4><br>
-<h4>• Projects 📖</h4><br>
-<h4>• Success 💻</h4>
+<ul>
+          <li>
+                    <h4>Future of my career ⏳</h4>
+          </li>
+
+          <li>
+                    <h4>Focus on goals 🔎</h4>
+          </li>
+
+          <li>
+                    <h4>Projects 💻</h4>
+          </li>
+</ul>
 
 <h2>🌱 I'm currently updating Front-end, focusing on the future, learning typescript.</h2>
 
@@ -30,9 +40,15 @@ ________________________________________________________________________________
 
 <ul>
           <li>
-                    Futuro da minha carreira
-                    Foco nos objetivos
-                    Projetos
+                    <h4>Futuro da minha carreira ⏳</h4>
+          </li>
+
+          <li>
+                    <h4>Foco nos objetivos 🔎</h4>
+          </li>
+
+          <li>
+                    <h4>Projetos 💻</h4>
           </li>
 </ul>
 
