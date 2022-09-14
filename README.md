@@ -1,4 +1,4 @@
-👋 Hello! Welcome to my Github profile.
+👋 <h2>Hello! Welcome to my Github profile.</h2>
 My name is João Vitor and my nickname is "Garcia"!
 
 🏠 I live in Portugal and I am currently 19 years old.
@@ -38,7 +38,7 @@ Meus interesses são:
 
 ____________________________________________________________________________________________________
 
-GRAPHIC OF LANGUAGES USED
+GRAPHIC OF LANGUAGES USED<br>
 GRÁFICO DE LÍNGUAGEMS USADAS
 
 <div>
