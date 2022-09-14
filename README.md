@@ -11,16 +11,16 @@
 <ul>
           <li>
                     <h4>Future of my career ⏳</h4>
-          </li>
+        </li>
 
-          <li>
+  <li>
                     <h4>Focus on goals 🔎</h4>
           </li>
 
-          <li>
+  <li>
                     <h4>Projects 💻</h4>
-          </li>
-</ul>
+          </li> </ul>
+
 
 <h2>🌱 I'm currently updating Front-end, focusing on the future, learning typescript.</h2>
 
@@ -41,16 +41,15 @@ ________________________________________________________________________________
 <ul>
           <li>
                     <h4>Futuro da minha carreira ⏳</h4>
-          </li>
+        </li>
 
-          <li>
+  <li>
                     <h4>Foco nos objetivos 🔎</h4>
           </li>
 
-          <li>
+  <li>
                     <h4>Projetos 💻</h4>
-          </li>
-</ul>
+          </li> </ul>
 
 <h4>🌱 Atualmente estou aprendendo Front-end, focando no futuro, a aprendizagem em typescript.<h4>
 
@@ -66,6 +65,7 @@ ________________________________________________________________________________
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaovitorgarciaa&layout=compact&langs_count=7&theme=dracula"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=joaovitorgarciaa&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
+          
 
 
 
