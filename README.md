@@ -28,9 +28,13 @@ ________________________________________________________________________________
 
 <h4>Meus interesses são:</h4>
 
-<h4>• Futuro ⏲</h4><br>
-<h4>• Projetos 📖</h4><br>
-<h4>• Sucesso 💻</h4>
+<ul>
+          <li>
+                    Futuro da minha carreira
+                    Foco nos objetivos
+                    Projetos
+          </li>
+</ul>
 
 <h4>🌱 Atualmente estou aprendendo Front-end, focando no futuro, a aprendizagem em typescript.<h4>
 
