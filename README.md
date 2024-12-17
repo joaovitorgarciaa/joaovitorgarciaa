@@ -1,5 +1,3 @@
-[![Discord Presence](https://lanyard.cnrad.dev/api/384555355830747136)](https://discord.com/users/384555355830747136)
-
 <h2>👋 Hello! Welcome to my Github profile.</h2>
 <h3>My name is João Vitor and my nickname is "Garcia"!</h3>
 
