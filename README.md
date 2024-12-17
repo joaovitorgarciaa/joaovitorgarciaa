@@ -1,10 +1,10 @@
 <h2>👋 Hello! Welcome to my Github profile.</h2>
 <h3>My name is João Vitor and my nickname is "Garcia"!</h3>
 
-<h4>🏠 I live in Portugal and I am currently 19 years old.</h4>
+<h4>🏠 I live in Portugal and I am currently 22 years old.</h4>
 
 <h4>I've been studying programming for a short time, mainly studying the front-end, with little experience in JavaScript.</h4>
-<h3>English level: Intermediate. </h3>
+<h3>English level: Advanced. </h3>
 
 <h4>My interests are:</h4>
 
@@ -22,7 +22,7 @@
           </li> </ul>
 
 
-<h2>🌱 I'm currently updating Front-end, focusing on the future, learning typescript.</h2>
+<h2>🌱 Currently studying for a degree in computer engineering.</h2>
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="60" height="60"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="60" height="60"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="60" height="60"/>
 __________________________________________________________________________________________________
@@ -31,10 +31,10 @@ ________________________________________________________________________________
 <h2>👋 Olá! Bem vindo ao meu perfil do Github.</h2>
 <h3>Meu nome é João Vitor, e meu sobrenome é "Garcia"!</h3>
 
-<h4>🏠 Moro em Portugal e atualmente tenho 19 anos.</h4>
+<h4>🏠 Moro em Portugal e atualmente tenho 22 anos.</h4>
 
 <h4>Estou estudando programação há pouco tempo, estudando principalmente o front-end, com pouca experiência em JavaScript.</h4>
-<h3>Nível de inglês: Intermediário.</h3>
+<h3>Nível de inglês: Avançado.</h3>
 
 <h4>Meus interesses são:</h4>
 
@@ -51,7 +51,7 @@ ________________________________________________________________________________
                     <h4>Projetos 💻</h4>
           </li> </ul>
 
-<h4>🌱 Atualmente estou aprendendo Front-end, focando no futuro, a aprendizagem em typescript.<h4>
+<h4>🌱 Atualmente cursando licenciatura em engneharia informática.<h4>
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="60" height="60"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="60" height="60"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="60" height="60"/>
 
